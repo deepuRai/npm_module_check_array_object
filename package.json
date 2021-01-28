@@ -1,5 +1,5 @@
 {
-  "name": "check_variable_array_object",
+  "name": "check_variable_array_object_",
   "version": "0.1.0",
   "description": "Checking whether variable is object or array",
   "main": "index.js",
