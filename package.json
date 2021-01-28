@@ -1,0 +1,11 @@
+{
+  "name": "check_variable_array_object",
+  "version": "0.1.0",
+  "description": "Checking whether variable is object or array",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
